@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 adfsdsghgtest2
 
 002
+=======
+adfsdsghgtest2
+>>>>>>> 4f67ec8250fed90965f5e6ec32d3e895d47af70c
